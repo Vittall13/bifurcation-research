@@ -508,6 +508,197 @@
 
 ---
 
+### [51] Guerrini, L. (2020)
+**Bifurcations in economic growth model with distributed time delay**
+
+- **Источник:** arXiv:2002.05016 [econ.TH]
+- **Опубликовано:** 12 февраля 2020
+- **Цитирования:** 22
+- **Аннотация:** Исследование модели Калдора-Калецки с распределённой задержкой времени инвестиций. Анализ Hopf-бифуркаций в контексте экономического роста и эндогенных бизнес-циклов.
+- **Ключевые слова:** Hopf bifurcation, economic growth, time delay, limit cycles, Kaldor-Kalecki model
+- **Применение в статье:** Раздел 2, Раздел 4, примеры бифуркаций в моделях роста фирмы.
+
+---
+
+### [52] Ledenyov, D.O. (2013)
+**On the theory of firm in nonlinear dynamic financial and economic systems**
+
+- **Источник:** arXiv:1302.6721 [econ.GN]
+- **Опубликовано:** 26 февраля 2013
+- **Цитирования:** 24
+- **Аннотация:** Применение критериев устойчивости Ляпунова и бифуркационного анализа к теории фирмы. Введение теоремы Ledenyov о стабильности фирмы в нелинейных динамических системах.
+- **Ключевые слова:** firm theory, bifurcation analysis, Lyapunov stability, nonlinear dynamics, econophysics
+- **Применение в статье:** ЦЕНТРАЛЬНЫЙ ИСТОЧНИК для разделов 2-4, 8.
+
+---
+
+### [53] Kuehn, C. (2024)
+**A Mathematical Framework for Critical Transitions: Bifurcations, Fast-Slow Systems and Stochastic Dynamics**
+
+- **Источник:** arXiv:1101.2899 [math.DS]
+- **Опубликовано:** 26 ноября 2024
+- **Цитирования:** 466
+- **Аннотация:** Математическая основа для анализа критических переходов в динамических системах. Теория быстро-медленных систем. Анализ локальных бифуркаций: fold, Hopf, pitchfork, transcritical.
+- **Ключевые слова:** critical transitions, tipping points, bifurcation theory, fast-slow systems, stochastic bifurcation
+- **Применение в статье:** Раздел 2, 3, 4, 6 - методологическая основа.
+
+---
+
+### [54] Bizyaeva, A., Franci, A., Leonard, N.E. (2023)
+**Multi-topic belief formation through bifurcations over signed social networks**
+
+- **Источник:** arXiv:2308.02755 [physics.soc-ph]
+- **Опубликовано:** август 2023
+- **Аннотация:** КЛЮЧЕВОЙ ИСТОЧНИК: явно связывает MAS и бифуркационный анализ. Анализ формирования убеждений через динамические системы и бифуркации в мультиагентных системах.
+- **Ключевые слова:** bifurcations, multi-agent systems, belief dynamics, social networks, dynamical systems
+- **Применение в статье:** Раздел 3.4 (новый подраздел "Бифуркации в МАС"), Раздел 4, 7.
+
+---
+
+### [55] PARTNERMAS (2025)
+**Hierarchical Multi-Agent Framework for Business Partner Selection**
+
+- **Источник:** arXiv:2509.24046 [cs.AI]
+- **Опубликовано:** 2025
+- **Аннотация:** Иерархическая архитектура MAS для сложных бизнес-решений. Структура: Planner Agent → Specialized Agents → Supervisor Agent. Превосходит single-agent подходы на 10-15%.
+- **Ключевые слова:** multi-agent systems, hierarchical MAS, LLM agents, business decision-making
+- **Применение в статье:** Раздел 4, 7 - практические архитектуры MAS.
+
+---
+
+### [56] Masaev, S. (2025)
+**Digital copy of enterprise as multidimensional dynamic system**
+
+- **Источник:** arXiv:2501.16725 [econ.GN]
+- **Опубликовано:** 27 января 2025
+- **Цитирования:** 4
+- **Аннотация:** Формализация предприятия как цифрового двойника - многомерной динамической системы. Применение теории динамических систем к цифровому управлению предприятием.
+- **Ключевые слова:** digital twin, enterprise, dynamic system, strategic planning, control systems
+- **Применение в статье:** Раздел 7 (цифровые двойники), Раздел 8.
+
+---
+
+### [57] van Tegelen, E. et al. (2025)
+**Neural ODEs for Learning Bifurcation-Affected Systems**
+
+- **Источник:** arXiv:2507.19036 [cs.LG]
+- **Опубликовано:** 2025
+- **Цитирования:** 1
+- **Аннотация:** Применение ML и нейронных дифференциальных уравнений для обнаружения и прогнозирования бифуркаций. Data-driven подход к анализу динамических систем.
+- **Ключевые слова:** Neural ODEs, bifurcation prediction, machine learning, data-driven methods
+- **Применение в статье:** Раздел 4, 7 - современные методы с ИИ.
+
+---
+
+### [58] Berglund, N. (1999)
+**Dynamic bifurcations: hysteresis, scaling laws and feedback control**
+
+- **Источник:** arXiv:chao-dyn/9912008
+- **Цитирования:** 29
+- **Аннотация:** Анализ систем с медленно меняющимися параметрами через точки бифуркации. Исследование гистерезиса и применение feedback для контроля бифуркаций.
+- **Ключевые слова:** dynamic bifurcations, hysteresis, feedback control, parameter variation
+- **Применение в статье:** Раздел 4, 6 - управление при переходе через бифуркации.
+
+---
+
+### [59] Yang, Y. et al. (2024)
+**LLM-based Multi-Agent Systems: Technical and Business Landscape**
+
+- **Источник:** arXiv:2411.14033 [cs.AI]
+- **Цитирования:** 17
+- **Аннотация:** Обзор LLM-based мультиагентных систем. Архитектуры, протоколы и применение к enterprise-системам.
+- **Ключевые слова:** LLM-based multi-agent systems, agent communication, enterprise applications
+- **Применение в статье:** Раздел 4, 7 - современные технологии MAS.
+
+---
+
+### [60] van de Wetering, R. (2021)
+**Dynamic enterprise architecture capabilities and organizational benefits**
+
+- **Источник:** arXiv:2105.10036 [cs.CY]
+- **Цитирования:** 39
+- **Аннотация:** Исследование динамических способностей архитектуры предприятия. Механизмы влияния EA на организационную гибкость и инновации.
+- **Ключевые слова:** dynamic capabilities, enterprise architecture, organizational agility, business-IT alignment
+- **Применение в статье:** Раздел 6, 8 - стратегии адаптации.
+
+---
+
+### [61] Dankowicz, H. et al. (2024)
+**Computational Bifurcation Analysis**
+
+- **Источник:** arXiv:2411.00735 [math.DS]
+- **Цитирования:** 1
+- **Аннотация:** Техники вычислительного анализа бифуркаций. Continuation techniques для отслеживания семейств равновесий.
+- **Ключевые слова:** bifurcation analysis, computational methods, continuation techniques, bifurcation diagrams
+- **Применение в статье:** Раздел 4 - численные методы.
+
+---
+
+### [62] Ettinger, A. et al. (2025)
+**Enterprise Architecture as Dynamic Capability for GenAI Adoption**
+
+- **Источник:** arXiv:2505.06326 [cs.CY]
+- **Цитирования:** 10
+- **Аннотация:** Применение динамических способностей EA для внедрения GenAI. Современный кейс адаптации к быстро меняющимся технологиям.
+- **Ключевые слова:** enterprise architecture, dynamic capabilities, GenAI adoption, digital transformation
+- **Применение в статье:** Раздел 5, 8 - кейс трансформации 2025.
+
+---
+
+### [63] Krauskopf, B. et al. (2020)
+**Bifurcation Analysis of Systems with Delays**
+
+- **Источник:** arXiv:2009.10860 [math.DS]
+- **Цитирования:** 16
+- **Аннотация:** Анализ динамических систем с запаздыванием. Влияние запаздывания на устойчивость и периодические решения.
+- **Ключевые слова:** delay differential equations, bifurcation analysis, time delay, stability analysis
+- **Применение в статье:** Раздел 4 - модели с запаздыванием.
+
+---
+
+### [64] Boullé, N. (2022)
+**Optimization of Hopf bifurcation points**
+
+- **Источник:** arXiv:2201.11684 [math.DS]
+- **Цитирования:** 8
+- **Аннотация:** Численные техники для контроля местоположения и свойств Hopf-бифуркаций. Методы оптимизации для управления колебательным поведением.
+- **Ключевые слова:** Hopf bifurcation, optimization, control, numerical techniques
+- **Применение в статье:** Раздел 6 - управление циклами.
+
+---
+
+### [65] Authors (2025)
+**Endogenous Depreciation and Structural Jevons Paradox: Digital LLM Models as Dynamic Bifurcation Systems**
+
+- **Источник:** arXiv:2601.12339 [econ.GN]
+- **Опубликовано:** 2025
+- **Аннотация:** AI-индустрия как динамическая система с бифуркациями. Winner-takes-all равновесие как следствие бифуркации при превышении критического порога.
+- **Ключевые слова:** bifurcation, AI industry, LLM models, market concentration, winner-takes-all
+- **Применение в статье:** Раздел 3, 5 - кейс AI-индустрии 2025.
+
+---
+
+### [66] Authors (2008)
+**Lock-in & Break-out from Technological Trajectories: Bifurcations in Techno-Economic Systems**
+
+- **Источник:** arXiv:0911.1311 [q-bio.GN]
+- **Опубликовано:** 2008
+- **Аннотация:** Бифуркации в техно-экономических системах. Lock-in эффекты и механизмы выхода. Возрастающие доходы вынуждают систему в одном из направлений развития.
+- **Ключевые слова:** technological bifurcation, lock-in, path dependence, increasing returns
+- **Применение в статье:** Раздел 5 - исторические примеры.
+
+---
+
+### [67] Couthures, A. (2025)
+**Bifurcation analysis of opinion dynamics coupled with environmental dynamics**
+
+- **Источник:** arXiv:2504.03419 [math.DS]
+- **Опубликовано:** 2025
+- **Аннотация:** Связанные динамики: формирование мнений и динамика среды. Критические переходы в системах с несколькими временными шкалами.
+- **Ключевые слова:** bifurcation, opinion dynamics, environmental dynamics, coupled systems, sustainability
+- **Применение в статье:** Раздел 8 - устойчивое развитие и SDGs.
+
+
 ## РЕЗЮМЕ: КАРТА ИСПОЛЬЗОВАНИЯ ИСТОЧНИКОВ
 
 ### По разделам статьи:
